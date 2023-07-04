@@ -141,8 +141,8 @@ padding-top: 24px; */
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-  /* padding-bottom: 25.5px;
-  padding-top: 25.5px; */
+  padding-bottom: 24px;
+  padding-top: 24px;
 }
 
 .logo-color {
@@ -166,8 +166,8 @@ padding-top: 24px; */
 }
 
 .menu-item {
-  padding-bottom: 24px;
   padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .menu-link {
@@ -438,6 +438,7 @@ padding-top: 24px; */
   background-color: var(--light, #F4F4FD);
   border: 1px solid var(--accent-secondary, #e7e9fc);
   border-radius: 4px; 
+  padding: 12px 24px;
 
   text-align: center;
   font-size: 16px;
